@@ -222,6 +222,13 @@ export const DATA = {
         "CLI",
         "Node.js",
       ],
+      links: [
+        {
+          type: "GitHub",
+          href: "https://github.com/Sayak-Bhunia/cli-cs-trivia",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
       image: "cli.png",
     },
   ],
