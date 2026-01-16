@@ -238,6 +238,7 @@ export const DATA = {
         {
           title: "Devpost",
           href: "https://devpost.com/software/rizzai",
+          icon: <Icons.github className="size-3" />,
         },
       ],
     },
@@ -253,6 +254,7 @@ export const DATA = {
         {
           title: "Devfolio",
           href: "https://devfolio.co/projects/ezmed-cb1e",
+          icon: <Icons.github className="size-3" />,
         },
       ],
     },
@@ -268,6 +270,7 @@ export const DATA = {
         {
           title: "Devfolio",
           href: "https://devfolio.co/projects/coders-dasboard-d8fd",
+          icon: <Icons.github className="size-3" />,
         },
       ],
     },
