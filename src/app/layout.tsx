@@ -14,6 +14,12 @@ const geist = Geist({
   weight: ["400", "500", "600", "700"],
 });
 
+export const metadata = {
+  verification: {
+    google: "gpeK1xu9cF00rCtr7ewtXKuBA4GX1X5UG4KB2RFGbGg",
+  },
+};
+
 const geistMono = Geist_Mono({
   subsets: ["latin"],
   weight: ["300", "400", "500", "600", "700"],
